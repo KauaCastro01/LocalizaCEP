@@ -41,7 +41,7 @@ O sistema consulta informações diretamente da API pública **ViaCEP**, exibind
 > Substitua os links abaixo pelas imagens reais do sistema.
 
 ### 🏠 Tela Principal
-<img src="https://github.com/user-attachments/assets/dea4b3cf-6d8a-4dd5-bf21-484844f23f2a" width="700"/>
+<img src="https://github.com/user-attachments/assets/0dc0d630-1e1e-43cb-912a-863946d36348" width="700"/>
 
 ---
 
